@@ -9,11 +9,11 @@ Excitedly throwing paper ball at the keyboard buttons in the office to guess the
 "Kerdle" is a word-guessing game where you throw crushed papers on a desk at a nearby keyboard to guess the hidden word by pressing keys one by one. While you play, a key may turn green which means that the letter is in the hidden word! So keep going, if you complete the word and turn red? Guess again because that’s not the word. Don’t forget to have fun while you play! 
 
 ### Game Features: 
-Think Ahead: Use logic for each throw to crack the word's code.
-Build Vocabulary: Discover new words while having fun.
-Easy Controls: Drag and release for a simple tossing experience.
-Brain Workout: Sharpen your mind while enjoying yourself.
-Addictive Fun: Get hooked on the satisfaction of solving word puzzles!
+* Think Ahead: Use logic for each throw to crack the word's code.
+* Build Vocabulary: Discover new words while having fun.
+* Easy Controls: Drag and release for a simple tossing experience.
+* Brain Workout: Sharpen your mind while enjoying yourself.
+* Addictive Fun: Get hooked on the satisfaction of solving word puzzles!
 
 ### Game Mechanics:
 Just drag and release the paper ball to hit the keyboards buttons.`
