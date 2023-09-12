@@ -17,3 +17,10 @@ Excitedly throwing paper ball at the keyboard buttons in the office to guess the
 
 ### Game Mechanics:
 Just drag and release the paper ball to hit the keyboards buttons.`
+
+### How to play ?
+- Download the file.
+- Open construct 3 editor throw any browser.
+- Press "Menu " then open the game file.
+- Press the intro tap and hit ( start icon ) .
+- Don't forget to have fun !
