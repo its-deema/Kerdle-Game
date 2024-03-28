@@ -33,11 +33,11 @@ Just drag and release the paper ball to hit the keyboards buttons.`
 </p>
 
 <p align="center">
-<img width="979" alt="main 1" src="https://github.com/its-deema/Kerdle-Game/assets/119051799/b4560b23-7f09-4e0c-9feb-1bc4fee94722"><br>
+<img width="979" alt="Game Page" src="https://github.com/its-deema/Kerdle-Game/assets/119051799/b4560b23-7f09-4e0c-9feb-1bc4fee94722"><br>
 </p>
 
 <p align="center">
-<img width="979" alt="main 2" src="https://github.com/its-deema/Kerdle-Game/assets/119051799/7ed30a36-5a98-4ac7-aa27-1f4e4146699f"><br>
+<img width="979" alt="Game Page" src="https://github.com/its-deema/Kerdle-Game/assets/119051799/7ed30a36-5a98-4ac7-aa27-1f4e4146699f"><br>
 <strong>Game Page</strong>
 </p>
 
