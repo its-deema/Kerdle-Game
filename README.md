@@ -28,7 +28,7 @@ Just drag and release the paper ball to hit the keyboards buttons.`
 # 📸 Screenshots 
 <p align="center">
 <img width="979" alt="Home page" src="https://github.com/its-deema/Kerdle-Game/assets/119051799/8459e845-1c88-47d7-800c-74388803820f">
-Home Page
-<img width="855" alt="main 2" src="https://github.com/its-deema/Kerdle-Game/assets/119051799/7ed30a36-5a98-4ac7-aa27-1f4e4146699f">
+<p> Home Page </p>
+<img width="979" alt="main 2" src="https://github.com/its-deema/Kerdle-Game/assets/119051799/7ed30a36-5a98-4ac7-aa27-1f4e4146699f">
 <img width="978" alt="main 1" src="https://github.com/its-deema/Kerdle-Game/assets/119051799/b4560b23-7f09-4e0c-9feb-1bc4fee94722">
 </p>
