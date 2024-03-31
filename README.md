@@ -1,4 +1,4 @@
-I would like to introduce you to the game I have developed - with my team - during the Developers Zone 3 Bootcamp, a collaborative effort by CODE/MCIT in partnership with GameBCN and zigzag. This innovative game is designed to provide an interactive and enjoyable way to teach spelling words. We accomplished this using the Construct 3 editor.
+I would like to introduce you to the game I have developed during the Developers Zone 3 Bootcamp, a collaborative effort by CODE/MCIT in partnership with GameBCN and zigzag. This innovative game is designed to provide an interactive and enjoyable way to teach spelling words. We accomplished this using the Construct 3 editor.
 
 I invite you to explore the game demo via the following link: [Game Demo](https://lnkd.in/eFh_w-DB).
 
