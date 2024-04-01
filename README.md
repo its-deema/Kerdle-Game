@@ -25,6 +25,12 @@ Just drag and release the paper ball to hit the keyboards buttons.`
 - Press the intro tap and hit ( start icon ) .
 - Don't forget to have fun !
 
+## Team members 
+- [@byReema ](https://github.com/byReema)
+- Dana Alkughail
+- Seera Alhatlani
+- Others 
+
 # 📸 Screenshots 
 
 <p align="center">
