@@ -26,7 +26,8 @@ Just drag and release the paper ball to hit the keyboards buttons.`
 - Don't forget to have fun !
 
 ## Team members 
-- [@byReema ](https://github.com/byReema)
+- [@ReemaAlnasser](https://github.com/byReema)
+- [@DeemaAlnasser](https://github.com/its-deema)
 - Dana Alkughail
 - Seera Alhatlani
 - Others 
